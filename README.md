@@ -18,8 +18,8 @@ serverless offline .<br/>
 3. http://localhost:3000/dev/api/v1/users/update <br/>
 4. http://localhost:3000/dev/api/v1/users/allUsers <br/>
 
-## Technology
-serverless framework( aws lambda fn)<br/>
-nodejs<br/>
-MongoDB Atlas Database<br/>
-Express Framework
+## Tech Stack
+. serverless framework( aws lambda fn)<br/>
+. nodejs<br/>
+. MongoDB Atlas Database<br/>
+. Express Framework
