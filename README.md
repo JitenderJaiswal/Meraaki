@@ -1,6 +1,6 @@
 # Meraaki
 
-##Intro
+## Intro
 a simple CRUD interface for a single entity say users. make the following endpoint<br/>
 1.post to create a users<br/>
 2.get to get a particular user<br/>
@@ -18,7 +18,7 @@ serverless offline .<br/>
 3. http://localhost:3000/dev/api/v1/users/update <br/>
 4. http://localhost:3000/dev/api/v1/users/allUsers <br/>
 
-##Technology
+## Technology
 serverless framework( aws lambda fn)<br/>
 nodejs<br/>
 MongoDB Atlas Database
