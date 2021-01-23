@@ -1,7 +1,7 @@
 # Meraaki
 
 ## Intro
-a simple CRUD interface for a single entity say users. make the following endpoint<br/>
+A simple CRUD interface for a single entity say users. make the following endpoint<br/>
 1.post to create a users<br/>
 2.get to get a particular user<br/>
 3.update endpoint to update user<br/>
