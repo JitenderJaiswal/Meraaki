@@ -21,4 +21,5 @@ serverless offline .<br/>
 ## Technology
 serverless framework( aws lambda fn)<br/>
 nodejs<br/>
-MongoDB Atlas Database
+MongoDB Atlas Database<br/>
+Express Framework
