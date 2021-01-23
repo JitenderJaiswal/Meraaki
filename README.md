@@ -23,3 +23,13 @@ serverless offline .<br/>
 . nodejs<br/>
 . MongoDB Atlas Database<br/>
 . Express Framework
+
+## Folder Structure
+├───config
+├───controllers
+│   └───api
+│       └───v1
+├───models
+└───routes
+    └───api
+        └───v1
